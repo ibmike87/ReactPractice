@@ -7,6 +7,9 @@ class App extends Component {
     return (
       <Fragment>
         <MyName />
+        {
+          //주석을 남긴다
+        }
         {/* <MyName name="리엑트" /> */}
         <div>
           {/*주석을 남긴다.*/}
